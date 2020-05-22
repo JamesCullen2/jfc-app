@@ -1,7 +1,7 @@
-import domain.Friend;
+import com.model.Friend;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
-import service.FriendService;
+import com.service.FriendService;
 
 import java.math.BigInteger;
 
